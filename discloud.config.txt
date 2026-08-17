@@ -1,0 +1,8 @@
+NAME=KDA Bot
+AVATAR=https://i.imgur.com/bX2vW02.png
+TYPE=bot
+MAIN=main.py
+RAM=100
+AUTORESTART=false
+VERSION=latest
+APT=tools
